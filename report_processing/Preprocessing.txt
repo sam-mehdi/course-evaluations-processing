@@ -1,0 +1,8 @@
+Several alterations to the Data Files and Header Files must be made before running this program.
+
+1. Replace ’ with '. You can do this (and all other replaces) in excel.
+2. Replace â€™ with '.
+3. Replace \x27 with '.
+
+In addition, in all Data Files, filter by School. Ensure that there are no records with a blank school. Replace all such blanks with ERR. 
+These records will be mapped to an ERR school.
